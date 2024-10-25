@@ -12,14 +12,31 @@ prsentar un ejemplo de la app alas personas, esta seria "flashcore" que seria mu
 en nustra app se podra interactuar y contara con mas opciones.
  <agit add <archivo.txt>rchivo.txt>
 ESTA LA PUBLICARE POR TIK TOK YA QUE SE MOVERA MAS RAPIDO
-## HERRAMIENTAS :
+
+# HERRAMIENTAS 
+
 - TIK TOK
+
 usare el tik tok como aplicacion para compartir mi idea.
-![alt text](image.png)o.txt>
+
+ ![alt text](image.png)o.txt>
 
 - USARE EL FORMULARIO:
+
  PARA REALIZAR UNA ENCUESTA:
+
  ![alt text](image-1.png)
+
+ # APRENDER
+ Despues de ver las reacciones y tener en cuenta tambien la encuesta que emos realizado vamos a ver si nuestra idea llama la atencion de las personas y tomaremos en cuenta los comentarios y mejorar
+ ya que nuestra app tiene la intencion de satisfacer las necesidades de la gente .
+
+ # PIVOTE
+
+ NUESTRA APP_FUTBOL LLAMO MUCHA ATENCION DE LA GENTE ASI QUE NO TENDREMOS QUE PIVOTEAR NUESTRA IDEA, YA QUE ESTA NOS BENEFICIARA A NOSOTROS Y ALAS PERSONAS QUE PODTRAN CONTAR CON ELLA.
+ YA QUE SERA FACIL DE USAR Y AYUDARA MUYCHO ALAS PERSONAS.
+
+ 
 
 
 
