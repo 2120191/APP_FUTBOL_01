@@ -10,12 +10,12 @@ y chuntarla como se dice.
 # MVP
 prsentar un ejemplo de la app alas personas, esta seria "flashcore" que seria muy similar a nustra idea pero en cambio
 en nustra app se podra interactuar y contara con mas opciones.
-git add <agit add <archivo.txt>rchivo.txt>
+ <agit add <archivo.txt>rchivo.txt>
 ESTA LA PUBLICARE POR TIK TOK YA QUE SE MOVERA MAS RAPIDO
 ## HERRAMIENTAS :
 - TIK TOK
 usare el tik tok como aplicacion para compartir mi idea.
-git add <archiv![alt text](image.png)o.txt>
+![alt text](image.png)o.txt>
 
 - USARE EL FORMULARIO:
  PARA REALIZAR UNA ENCUESTA:
