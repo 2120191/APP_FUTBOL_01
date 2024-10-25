@@ -36,7 +36,9 @@ usare el tik tok como aplicacion para compartir mi idea.
  NUESTRA APP_FUTBOL LLAMO MUCHA ATENCION DE LA GENTE ASI QUE NO TENDREMOS QUE PIVOTEAR NUESTRA IDEA, YA QUE ESTA NOS BENEFICIARA A NOSOTROS Y ALAS PERSONAS QUE PODTRAN CONTAR CON ELLA.
  YA QUE SERA FACIL DE USAR Y AYUDARA MUYCHO ALAS PERSONAS.
 
+ # modelo baja de nuestra app:
  
+  ![alt text](image![alt text](image-2.png)-1.png)
 
 
 
