@@ -1,59 +1,46 @@
-## APP_FUTBOL
-Has pensado alguna vez en tener una app de predicciones donde podras ver y compartir tus pronosticos de tus partidos
-favoritos con todo el mundo.
-donde podras interactuar con especialistas del futbol pie.
-ademas tambien podras crear tu grupo de analistas deportivos.
-
-ADEMAS DE TODO NUESTRA APP CONTARA CON UNA OPCION DONDE PODRAS REALIZAR PREGUNTAS SOBRE EL FUTBOL EN GENERAL
-Y ASI APRENDER SOBRE SU HISTORIA
-
-![alt text](image-4.png)
+## APP_LIBRO
+ESTA idea nos brindara informacion de libros y ademas podra compartir tus libros favoritos de manera gratuita con todos tus amigos.
 
 
 # PROBLEMA
-El futbol es un deporte raro donde pueden pasar muchas cosas, entonces aveces es muy dificil pronosticar un partido
-y chuntarla como se dice.
+no encuentras que libro leer en tus tiempos libros edta app te ayudara mucho a encontraralo ya que contaremos con diversos tipos de literatura.
 
-![alt text](image-5.png)
-
-# MVP
-prsentar un ejemplo de la app alas personas, esta seria "flashcore" que seria muy similar a nustra idea pero en cambio
-en nustra app se podra interactuar y contara con mas opciones.
- <agit add <archivo.txt>rchivo.txt>
-ESTA LA PUBLICARE POR TIK TOK YA QUE SE MOVERA MAS RAPIDO
+## solucion
+crear una app donde podras encontrar libros de  distintas variedades, donde podras buscar los libros atu gusto de manera rapida y sencilla.
 
 # HERRAMIENTAS 
 
-- TIK TOK
-
-usare el tik tok como aplicacion para compartir mi idea.
-
- ![alt text](image.png)o.txt>
-
-- USARE EL FORMULARIO:
-
- PARA REALIZAR UNA ENCUESTA:
-
- ![alt text](image-1.png)
-
- # APRENDER
 
 
- Despues de ver las reacciones y tener en cuenta tambien la encuesta que emos realizado vamos a ver si nuestra idea llama la atencion de las personas y tomaremos en cuenta los comentarios y mejorar
- ya que nuestra app tiene la intencion de satisfacer las necesidades de la gente .
+ PYTHON --> Esta herramienta estoy utilizando para hecer la documentación correspondiente de mi aplicación, como también para crear la lógica de mi aplicación y crear la interfaz del usuario.
+TODOIST --> Con esta herramienta organiza mis ideas como también me asigna tareas con fechas especificas para cumplirlas.
 
- # PIVOTE
 
- ![alt text](image-3.png)
+FIGMA --> Esta herramienta nos sirve para crear diseño de interfaces, para construir prototipos funcionales (para simular la interacción del usuario con la interfaz).
 
- NUESTRA APP_FUTBOL LLAMO MUCHA ATENCION DE LA GENTE ASI QUE NO TENDREMOS QUE PIVOTEAR NUESTRA IDEA, YA QUE ESTA NOS BENEFICIARA A NOSOTROS Y ALAS PERSONAS QUE PODTRAN CONTAR CON ELLA.
- YA QUE SERA FACIL DE USAR Y AYUDARA MUYCHO ALAS PERSONAS.
-
- # modelo baja de nuestra app:
-
-  ![alt text](image![alt text](image-2.png)-1.png)
+LENGUAJE DE PROGRAMACION-->La tecnología de lenguaje de programación es fundamental en el desarrollo de aplicaciones, ya que permite crear la lógica y funcionalidad de la app, así como diseñar la forma en que esta interactúa con el usuario y otros sistemas.
 
 
 
+ # CASOSO DE USO:
+ * LOS USUARIOS PODRAN registrarse o iniciar secion en la aplicacion
+ * los usuarios podran buscar su libro favorito
+ * los usuarios podran compartir su libro asu amigo ya usuario
+ * los usuarios podran guardar y reservar su libro en cualwuier momento
+ * los usuarios podran comentar y calificar la aplicacion
+
+## DIAGRAMA DE CASOS DE USO
+Sirve para representar las funcionalidades o "casos de uso" que el sistema debe ofrecer a los usuarios (también llamados "actores")
+## USUARIOS
+![alt text](<Captura de pantalla 1111.png>)
+
+## ADMINISTRADOR
+![alt text](<Captura de pantalla 1222.png>)
+
+## HISTORIAS DE USUARIOS
 
 
+
+
+
+## DIAGRAMA ENTIDAD
