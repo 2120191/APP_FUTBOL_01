@@ -19,7 +19,7 @@ TODOIST --> Con esta herramienta organiza mis ideas como también me asigna tare
 
 # FIGMA --> Esta herramienta nos sirve para crear diseño de interfaces, para construir prototipos funcionales (para simular la interacción del usuario con la interfaz).
 
-https://www.figma.com/design/Z7iJu5k0pNE8zSKQhSuPTQ/Untitled?node-id=0-1&m=dev&t=ZIsmFUrNnuLg3C64-1
+https://www.figma.com/design/0CSEYpxGxhw7qtCO9EHNtw/Untitled?node-id=0-1&m=dev&t=xs7D0UtzdgmZzyr6-1
 
 # LENGUAJE DE PROGRAMACION-->La tecnología de lenguaje de programación es fundamental en el desarrollo de aplicaciones, ya que permite crear la lógica y funcionalidad de la app, así como diseñar la forma en que esta interactúa con el usuario y otros sistemas.
 
